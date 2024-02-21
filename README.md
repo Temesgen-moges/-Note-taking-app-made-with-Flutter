@@ -10,10 +10,11 @@ Welcome to the Weather App developed with Flutter! This application allows users
 
 ## Screenshots
 
-Include screenshots or gifs showcasing different aspects of your app. You can create a `screenshots` folder in your repository to store these images.
+![weather](https://github.com/Temesgen-moges/weather-app-by-using-flutter-/assets/117896449/37c946ef-80bb-4517-bedc-c7fc6952b515)
 
 
-Contact Information
+
+## Contact Information
 Developed by Temesgen Moges
 
 Email: temu1554@gmail.com
