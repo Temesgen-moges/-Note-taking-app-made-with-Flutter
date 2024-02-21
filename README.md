@@ -1,16 +1,20 @@
-# weather_app_by_using_flutter
+ Weather App using Flutter
 
-A new Flutter project.
+Welcome to the Weather App developed with Flutter! This application allows users to check the weather conditions of their current location or any other city.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Current Location Weather:** Get real-time weather information based on your current location.
+- **City-based Weather:** Search for weather conditions in any city around the world.
+- **Animated Weather Display:** Enjoy dynamic animations that change based on different weather conditions.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Include screenshots or gifs showcasing different aspects of your app. You can create a `screenshots` folder in your repository to store these images.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Contact Information
+Developed by Temesgen Moges
+
+Email: temu1554@gmail.com
+Phone: +251985246737
