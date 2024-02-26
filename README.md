@@ -15,7 +15,7 @@ Welcome to the Weather App developed with Flutter! This application allows users
 
 
 ## Contact Information
-Developed by Temesgen Moges
+### Developed by Temesgen Moges
 
 Email: temu1554@gmail.com
 Phone: +251985246737
